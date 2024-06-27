@@ -1,0 +1,52 @@
+Enter 1 for single player,2 for Multiplayer:1
+Computer:O vs You:X
+Enter you play 1(st) or 2(nd)1
+_  _  _  
+
+_  _  _  
+
+_  _  _  
+
+
+Enter X's position from [1,2,3,......9]:5
+O  _  _  
+
+_  X  _  
+
+_  _  _  
+
+
+Enter X's position from [1,2,3,......9]:3
+O  _  X  
+
+_  X  _  
+
+O  _  _  
+
+
+Enter X's position from [1,2,3,......9]:4
+O  _  X  
+
+X  X  O  
+
+O  _  _  
+
+
+Enter X's position from [1,2,3,......9]:8
+O  O  X  
+
+X  X  O  
+
+O  X  _  
+
+
+Enter X's position from [1,2,3,......9]:9
+O  O  X  
+
+X  X  O  
+
+O  X  X  
+
+
+Draw
+Thanks for playing
